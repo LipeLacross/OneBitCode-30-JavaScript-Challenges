@@ -102,7 +102,7 @@ Para rodar este projeto localmente, você precisará do [Node.js](https://nodejs
 
 1. Clone este repositório:
     ```bash
-    git clone https://github.com/seu-usuario/30-desafios-javascript.git
+    git clone https://github.com/LipeLacross/OneBitCode-30-JavaScript-Challenges.git
     ```
 2. Navegue até o diretório do projeto:
     ```bash
