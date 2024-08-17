@@ -3,6 +3,7 @@
 Este projeto consiste em uma série de 30 desafios de programação em JavaScript. Cada desafio aborda um problema específico, proporcionando uma oportunidade de praticar e aprimorar habilidades de lógica e programação. Os desafios variam de manipulação de strings e arrays a problemas matemáticos e algoritmos recursivos.
 
 ### Exemplo Visual do Projeto
+![image](https://github.com/user-attachments/assets/fea97f3b-367d-4c72-b5af-a4e04a88d17e)
 
 ## 🔨 Funcionalidades do Projeto
 
