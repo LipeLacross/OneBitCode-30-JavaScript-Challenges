@@ -96,28 +96,28 @@ O projeto está organizado em cinco categorias de dificuldade, cada uma contendo
 - **LICENSE**: Arquivo contendo a licença do projeto.
 - **README.md**: Documentação do projeto.
 
-## 🛠️ Abrir e rodar o projeto
+## 🛠️ Abrir e Rodar o Projeto
 
-Para rodar este projeto localmente, você precisará do [Node.js](https://nodejs.org/) instalado em sua máquina.
+Para rodar este projeto localmente, siga os passos abaixo. Certifique-se de ter o [Node.js](https://nodejs.org/) instalado em sua máquina:
 
-1. Clone este repositório:
+1. **Clone este repositório:**
     ```bash
     git clone https://github.com/LipeLacross/OneBitCode-30-JavaScript-Challenges.git
     ```
-2. Navegue até o diretório do projeto:
+2. **Navegue até o diretório do projeto:**
     ```bash
-    cd 30-desafios-javascript
+    cd OneBitCode-30-JavaScript-Challenges
     ```
-3. Instale as dependências:
+3. **Instale as dependências:**
     ```bash
     npm install
     ```
-4. Rode os desafios:
+4. **Rode os desafios:**
     ```bash
-    node challenges/challenge1.js
+    node desafios/desafio1.js
     ```
 
-Substitua `challenge1.js` pelo arquivo do desafio que você deseja executar.
+Substitua `desafio1.js` pelo arquivo correspondente ao desafio que você deseja executar.
 
 ## 🌐 Deploy
 
