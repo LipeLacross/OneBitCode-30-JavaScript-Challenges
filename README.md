@@ -1,3 +1,5 @@
+## 🌐 [English Version of README](README_EN.md)
+
 # 30 Desafios de JavaScript
 
 Este projeto consiste em uma série de 30 desafios de programação em JavaScript. Cada desafio aborda um problema específico, proporcionando uma oportunidade de praticar e aprimorar habilidades de lógica e programação. Os desafios variam de manipulação de strings e arrays a problemas matemáticos e algoritmos recursivos.
